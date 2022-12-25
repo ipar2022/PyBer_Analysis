@@ -5,7 +5,7 @@
 The purpose of this project is to create a summary DataFrame of the ride-sharing data by city type. This file will include Pandas and Matplotlib that will create a multiple-line graph that shows the total weekly fares for each city type. Finally the analysis report summarizes how the data differs by city type and how those differences can be used by Pyber decision-makers.
 
 - **Results**
--[x] Summary DataFrame
+- Summary DataFrame
 The rural rideshare information reveals they have the lest amount of drivers and rides.
 Although, they earn the most for average fare per ride and	average driver fares the drivers earn the least for totals fares.
 
@@ -15,7 +15,7 @@ Finally, the urban rideshare information reveals they have the most amount of dr
 
 A new DataFrame was created by using the loc method on the following date range: 2019-01-01 through 2019-04-28. Time conversion = January 1, 2019 - April 28, 2019.
 
--[x] A multiple-line chart was created to complement the DataFrame.
+- A multiple-line chart was created to complement the DataFrame.
 
 
 - **Summary**
