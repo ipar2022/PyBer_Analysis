@@ -1,3 +1,4 @@
+![PyBer_fare_summary](https://user-images.githubusercontent.com/113808332/209479157-fe067a96-f5d2-4586-82c8-edc4a3408ba0.png)
 # PyBer_Analysis
 
 - **Overview of the analysis**
