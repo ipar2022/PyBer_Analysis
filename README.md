@@ -7,6 +7,8 @@ The purpose of this project is to create a summary DataFrame of the ride-sharing
 
 - **Results**
 - Summary DataFrame
+ ![DataFrame totals](https://user-images.githubusercontent.com/113808332/209497272-f60155ce-acfa-4024-89c6-6367a57a1b45.png)
+
 The rural rideshare information reveals they have the lest amount of drivers and rides.
 Although, they earn the most for average fare per ride and	average driver fares the drivers earn the least for totals fares.
 
