@@ -20,10 +20,10 @@ A new DataFrame was created by using the loc method on the following date range:
 
 
 - **Summary**
-The analysis report caluculates the rural, suburban, and urban ride-share services.
-Although, the rural community drivers can earn the most. Some rural communities would greatly bennefit from ride-share programs that helps the lower income families that live their. 
+The analysis report calculates  the rural, suburban, and urban ride-share services.
+Although, the rural community drivers can earn the most. Some rural communities would greatly benefit  from ride-share programs that helps the lower income families that live their. 
 
 The suburban community drivers earn the 2nd highest wage.
 Most people living in the suburbs have some form of transportation. Special occasion promotions would attrack them to reserve rides.
 
-Urban communities have changing environments. Depending on the development of the area you can easily walk to were you need to make a purchase and go home. However, some people would greatly bennefit from having a rideshare that allows them to get their purchases back home safely.
+Urban communities have changing environments. Depending on the development of the area you can easily walk to were you need to make a purchase and go home. However, some people would greatly benefit  from having a rideshare that allows them to get their purchases back home safely.
