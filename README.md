@@ -20,7 +20,7 @@ A new DataFrame was created by using the loc method on the following date range:
 
 
 - **Summary**
-The analysis report caluculates the rurual, suburban, and urban ride-share services.
+The analysis report caluculates the rural, suburban, and urban ride-share services.
 Although, the rural community drivers can earn the most. Some rural communities would greatly bennefit from ride-share programs that helps the lower income families that live their. 
 
 The suburban community drivers earn the 2nd highest wage.
