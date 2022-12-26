@@ -1,4 +1,4 @@
-![PyBer_fare_summary](https://user-images.githubusercontent.com/113808332/209479157-fe067a96-f5d2-4586-82c8-edc4a3408ba0.png)
+
 # PyBer_Analysis
 
 - **Overview of the analysis**
@@ -7,7 +7,8 @@ The purpose of this project is to create a summary DataFrame of the ride-sharing
 
 - **Results**
 - Summary DataFrame
- ![DataFrame totals](https://user-images.githubusercontent.com/113808332/209497272-f60155ce-acfa-4024-89c6-6367a57a1b45.png)
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/113808332/209479157-fe067a96-f5d2-4586-82c8-edc4a3408ba0.png)
 
 The rural rideshare information reveals they have the lest amount of drivers and rides.
 Although, they earn the most for average fare per ride and	average driver fares the drivers earn the least for totals fares.
@@ -15,10 +16,12 @@ Although, they earn the most for average fare per ride and	average driver fares 
 The suburban rideshare information reveals they are in 2nd place when it involves the amount of drivers, rides, totals fares, average fare per ride, and average driver fares.
 
 Finally, the urban rideshare information reveals they have the most amount of drivers, rides and earn the most for total fares. However, when it involves the average fare per ride and average driver fares the lest amount of income  is made.
+![DataFrame totals](https://user-images.githubusercontent.com/113808332/209497337-50911e3d-d458-481c-8c26-c820da8d2593.png)
 
 A new DataFrame was created by using the loc method on the following date range: 2019-01-01 through 2019-04-28. Time conversion = January 1, 2019 - April 28, 2019.
 
 - A multiple-line chart was created to complement the DataFrame.
+![PyBer_fare_summary](https://user-images.githubusercontent.com/113808332/209479157-fe067a96-f5d2-4586-82c8-edc4a3408ba0.png)
 
 
 - **Summary**
